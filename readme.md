@@ -75,7 +75,7 @@ Feito por José Freires 🦊🦊
 
 Minhas redes sociais:
 
-<a src="www.linkedin.com/in/josé-guilherme-silva-freires-27b778227" type="blank">
+<a href="www.linkedin.com/in/josé-guilherme-silva-freires-27b778227" type="blank">
 	<img style="width: 20px;
 	cursor: pointer;" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1658073236~hmac=f40313435491c07d739bb205950cf6d4" />
 </a>
