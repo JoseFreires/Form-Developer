@@ -1,0 +1,8 @@
+.containerFooter{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
