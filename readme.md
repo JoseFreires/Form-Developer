@@ -20,8 +20,10 @@ algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradáv
 
 # Imagens do Projeto:
 
-<p>light mode</p>
+<p>Light Mode☀️</p>
 <img src="https://user-images.githubusercontent.com/88195769/179406015-4a39afdf-8bf3-4a15-92c4-169d40fdd2e3.png" />
+<p>Dark Mode🌙</p>
+<img src="https://user-images.githubusercontent.com/88195769/179406454-742da62d-87ab-472d-8877-78f3f970b314.png" />
 
 ### Features
 
@@ -36,14 +38,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando a Aplicação
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/JoseFreires/Form-Developer>
+$ git clone https://github.com/JoseFreires/Form-Developer
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd *pasta onde você clonou
+$ cd *pasta onde você clonou*
 
 # Instale as dependências
 $ npm install react-switch
@@ -60,6 +62,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+
+### 🛠 Libraries
+
+As seguintes bibliotecas foram usadas na construção do projeto:
+
+- [react-switch](https://www.npmjs.com/package/react-switch)
+
 
 ### Autor
 ---
