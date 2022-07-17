@@ -4,13 +4,15 @@
 ferramenta muito usada no tempos atuais que é o Dark Mode. O formulário é simples e não envia os dados para nenhum local, 
 algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradável para o usúario.</p>
 
-# Conteúdo:
+## Conteúdo:
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#Tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#imagens-do-projeto">Imagens</a> •
+ <a href="#features">Features</a> •
+ <a href="#requisistos-necessários">Pré-Requisitos</a> •
+ <a href="#rodando-a-aplicação">Rodando a Aplicação</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#libraries">Bibliotecas</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -18,7 +20,7 @@ algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradáv
 	🚧  React Project 🚀 Em construção...  🚧
 </h4>
 
-# Imagens do Projeto:
+## Imagens do Projeto
 
 <p>Light Mode☀️</p>
 <img src="https://user-images.githubusercontent.com/88195769/179406015-4a39afdf-8bf3-4a15-92c4-169d40fdd2e3.png" />
@@ -32,13 +34,13 @@ algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradáv
 - [x] Responsividade
 - [ ] Cadastrar
 
-### Pré-requisitos
+### Requisistos Necessários
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando a Aplicação
+### Rodando a Aplicação
 
 ```bash
 # Clone este repositório
@@ -56,14 +58,14 @@ $ npm start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 
-### 🛠 Libraries
+### Libraries
 
 As seguintes bibliotecas foram usadas na construção do projeto:
 
