@@ -55,7 +55,7 @@ const Login = () =>{
                                     <input placeholder="Nome" type='text'/>
                                     <input placeholder="Sobrenome" type='text'/>
                                 </div>
-                                <div>
+                                <div >
                                     <div className="time">
                                         <label>Data de Nascimento</label>
                                         <input id="date" type='date'/>
