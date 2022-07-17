@@ -20,7 +20,8 @@ algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradáv
 
 # Imagens do Projeto:
 
-
+<p>light mode</p>
+<img src="https://user-images.githubusercontent.com/88195769/179406015-4a39afdf-8bf3-4a15-92c4-169d40fdd2e3.png" />
 
 ### Features
 
