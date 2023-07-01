@@ -1,7 +1,7 @@
 # Form Developers
 
 <p align="justify">Esse projeto foi criado com o objetivo de exercitar a criação de um formulário no React, além de também ter uma
-ferramenta muito usada no tempos atuais que é o Dark Mode. O formulário é simples e não envia os dados para nenhum local, 
+ferramenta muito usada nos tempos atuais que é o Dark Mode. O formulário é simples e não envia os dados para nenhum local, 
 algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradável para o usúario.</p>
 
 ## Conteúdo:
