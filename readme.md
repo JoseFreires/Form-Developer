@@ -32,7 +32,7 @@ algo que pode ser mudado futuramente. Ele foi criado com uma aparência agradáv
 - [x] Aparência
 - [x] Dark Mode
 - [x] Responsividade
-- [ ] Cadastrar
+- [x] Cadastrar
 
 ### Requisistos Necessários
 
@@ -86,7 +86,8 @@ Feito por José Freires 🦊🦊
 
 Minhas redes sociais:
 
+
 <a href="https://www.linkedin.com/in/josé-guilherme-silva-freires-27b778227" type="_blank">
 	<img style="width: 20px;
-	cursor: pointer;" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1658073236~hmac=f40313435491c07d739bb205950cf6d4" />
+	cursor: pointer;" src="https://github.com/JoseFreires/Form-Developer/assets/88195769/09f91f04-cc38-469c-b65f-0e233b6a4359" />
 </a>
